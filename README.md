@@ -15,17 +15,25 @@ This database is publicly available. It is free for professors and researcher sc
 Subject: Application to download the FDU/SHUTCM Dataset
 
 Name:
+
 Affiliation:
+
 Department:
+
 Position:
+
 Email:
 
 I have read and agree to the terms and conditions.
+
 This database will only be used for research purposes.
+
 I will not make any part of this database available to a third party.
+
 I'll not sell any part of this database or make any profit from its use.
 
 Contact Authors
 ====
 Jianqiang Peng, e-mail: 19210860025@fudan.edu.cn
+
 Xinlei Li, e-mail: 18110860019@fudan.edu.cn
