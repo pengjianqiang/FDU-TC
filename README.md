@@ -12,17 +12,17 @@ How to get the Dataset
 ====
 This database is publicly available. It is free for professors and researcher scientists affiliated to a University. Permission to use but not reproduce or distribute our database is granted to all researchers given that the following steps are properly followed: Send an e-mail to Jianqiang Peng (19210860025@fudan.edu.cn) or Xinlei Li (18110860019@fudan.edu.cn) before downloading the database. Your Email MUST be set from a valid University account and MUST include the following text:
 
-Subject: Application to download the FDU/SHUTCM Dataset
+1.Subject: Application to download the FDU/SHUTCM Dataset
 
-Name:
+2.Name:
 
-Affiliation:
+3.Affiliation:
 
-Department:
+4.Department:
 
-Position:
+5.Position:
 
-Email:
+6.Email:
 
 I have read and agree to the terms and conditions.
 
